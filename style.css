@@ -1,0 +1,73 @@
+.container{
+    width: auto;
+    height: 530px;
+    /* border: solid; */
+    }
+    Header{
+        height: 70px;
+        /* border:solid; */
+        font-size: 40px;
+        background-color: yellowgreen;
+        text-align: center;
+        
+    }
+    nav{
+        height: 65px;
+        /* border: solid; */
+        text-align: center;
+        background-color: blanchedalmond;
+        margin: 5px;
+        }
+
+        nav ul li{
+            display: inline-block;
+        }
+        a{
+            text-decoration: none;
+        }
+        li{
+            margin: 0 50px;
+            font-size: 20px;
+        }
+        .bmdc{
+            display: flex;
+            justify-content: space-evenly;
+            height: 400px;
+        }
+        #vision{
+            width: 300px;
+            border-radius: 20px;
+            /* border: solid; */
+            /* height: 150x; */
+            padding: 30px;
+            box-shadow:rgb(216, 187, 216) 3px 3px 3px 3px ;
+            margin: 5px;
+            /* height: 180px;   */
+        }
+        #mission{width: 300px;
+            border-radius: 20px;
+            /* border: solid; */
+            height: 150x;
+            padding: 0 3px;
+            box-shadow:rgb(216, 187, 216) 3px 3px 3px 3px ;
+            margin: 5px; 
+            padding: 30px;
+        }
+        #achievements{
+            border-radius: 20px;
+            /* border: solid; */
+            /* height: 150x; */
+            padding: 0 3px;
+            box-shadow:rgb(216, 187, 216) 3px 3px 3px 3px ;
+            margin: 5px; 
+            width: 300px;
+            padding: 30px;
+
+        }
+        
+footer{
+    height: 70px;
+    line-height: 70px;
+}
+
+        
